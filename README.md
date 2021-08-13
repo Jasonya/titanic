@@ -1,3 +1,3 @@
 # Titanic - Machine Learning from Disaster
 
-Different machine learning model for titanic disaster dataset
+The different machine learning models for the titanic disaster dataset
